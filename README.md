@@ -153,7 +153,6 @@ Add screenshots of:
 - Dark/Light Theme Toggle
 
 ## Author
-- Christy Denees P
 
 Christy Denees
 
