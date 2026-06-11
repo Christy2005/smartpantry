@@ -7,7 +7,7 @@ const recipeDetailsRoutes = require("./routes/recipeDetails");
 const savedRecipeRoutes = require("./routes/savedrecipe");
 const geminiRecipeRoutes =
 require("./routes/geminisearch.js");
-const imageRoutes = require("./routes/imageRoutes");
+const imageRoutes = require("./routes/imageroutes.js");
 const imageDetectionRoutes =
 require("./routes/imagedetection.js");
 
