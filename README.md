@@ -138,10 +138,27 @@ npm start
 Add screenshots of:
 
 - Login Page
+  <img width="1920" height="968" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/df66f106-042f-4460-b495-2444e287429c" />
+
+- Register page
+  <img width="1913" height="977" alt="Screenshot (509)" src="https://github.com/user-attachments/assets/eea5da39-8d8e-4e79-8099-439883b9d481" />
+
+
 - Dashboard
+  <img width="1920" height="955" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/11e76e45-b82a-4a57-a889-d595d84921a0" />
+
 - Recipe Search
+  <img width="1920" height="972" alt="Screenshot (512)" src="https://github.com/user-attachments/assets/acf8e79d-22e4-405f-acfb-089fcca827ea" />
+  
+  <img width="1920" height="960" alt="Screenshot (513)" src="https://github.com/user-attachments/assets/036c0a5e-ad21-46a2-a76e-1057994150f0" />
+
+
 - Image Upload
+  <img width="1920" height="963" alt="Screenshot (511)" src="https://github.com/user-attachments/assets/acd712f8-60dd-40c2-bab7-8511fafc366d" />
+
 - Saved Recipes
+  <img width="1920" height="961" alt="Screenshot (515)" src="https://github.com/user-attachments/assets/78dc31ee-96f0-47b7-ae1f-d2be70161926" />
+
 
 ## Future Improvements
 
